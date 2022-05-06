@@ -1,0 +1,15 @@
+{
+  "name": "2022-byod-stoneridge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stagedb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1129.0",
+    "n-readlines": "^1.0.1"
+  }
+}
